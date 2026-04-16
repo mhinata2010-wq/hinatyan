@@ -1,3 +1,3 @@
-# About me　##ひなちゃん
-個人リポジトリ
-私について
+# About me　　ひなちゃん
+name 宮地陽大
+My hoby 　走ること 
